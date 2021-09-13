@@ -83,7 +83,7 @@ function hDice() {
 		globalP2.textContent >= 100 ? endGame(): changePlayer();
 	}
 }
-//------------------------------
+
 newGame.addEventListener("click", init);
 roll.addEventListener('click', rDice);
 hold.addEventListener('click', hDice);
