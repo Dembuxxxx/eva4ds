@@ -21,12 +21,12 @@ var activePlayer = player1;
 var result = document.getElementById('result');
 //---------------------------------
 var randomImage = [
-	"img/face1.png",
-	"img/face2.png",
-	"img/face3.png",
-	"img/face4.png",
-	"img/face5.png",
-	"img/face6.png"
+	"img/f1.png",
+	"img/f2.png",
+	"img/f3.png",
+	"img/f4.png",
+	"img/f5.png",
+	"img/f6.png"
 ];
 //------------------------------
 //Nouvelle partie
