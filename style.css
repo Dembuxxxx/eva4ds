@@ -2,20 +2,28 @@
  font-family: Arial, Helvetica, sans-serif;
  font-size: medium;
  font-weight: initial;
- color: lightcoral;
-  
+ color: white;
 
 }
 
 h2{
  font-family: Georgia, 'Times New Roman', Times, serif;
- font-weight: bold;
-
-
+ font-weight: bolder;
 }
 
-.body{
-    background-color: rgb(172, 37, 37); 
-
+body {
+    font-family:'lato', sans-serif;
+    background-image: url(img/jeudéfond.jpeg);
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    
 }
+
+button{
+    font-weight: 400px;
+}
+
 
